@@ -1,0 +1,31 @@
+.colored-sec {
+    background-color: rgb(158, 233, 233);
+    height: 88vh;
+}
+
+.description {
+    text-align: center;
+}
+
+.heading {
+    color: rgb(105, 53, 24);
+}
+
+.example-heading {
+    color: rgb(151, 103, 14);
+    text-align: center;
+}
+
+table {
+    width: 40%;
+    background-color: rgb(122, 186, 221);
+    margin-block: 20px;
+
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    width: 560px;
+    height: 315px;
+}
